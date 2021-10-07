@@ -1,3 +1,1 @@
-flight checkin
-===============
-# Flight-checkIn
+# Flight Check-In
